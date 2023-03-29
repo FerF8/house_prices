@@ -1,2 +1,11 @@
 .ipynb_checkpoints/
 sample_submission.csv
+.DS_Store
+MLP1/keras_metadata.pb
+MLP1/saved_model.pb
+MLP1/logs/fit/train/events.out.tfevents.1679950890.MacBook-Pro.local.2813.0.v2
+MLP1/logs/fit/train/events.out.tfevents.1679950921.MacBook-Pro.local.2813.1.v2
+MLP1/logs/fit/train/events.out.tfevents.1679950954.MacBook-Pro.local.2813.2.v2
+MLP1/logs/fit/validation/events.out.tfevents.1679950955.MacBook-Pro.local.2813.3.v2
+MLP1/variables/variables.data-00000-of-00001
+MLP1/variables/variables.index
